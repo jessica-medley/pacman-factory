@@ -12,4 +12,4 @@ Simply copy the files into one folder on your computer, then open the html file 
 What additional features or functionality would be helpful to a user? 
 
 ## License information: 
-MIT license. 
+[MIT license](https://github.com/jessica-medley/eye-movement/blob/main/LICENSE) 
